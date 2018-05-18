@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Chicago!</string>
+    <string name ="app_permission_label">Dangerous Level Permission</string>
+    <string name ="app_permission_description">use dangerous level permission: edu.uic.cs478.sp18.project3</string>
+</resources>

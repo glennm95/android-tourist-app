@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Hello Chicago!</string>
+    <string-array name="attractionNames">
+        <item>Chicago Riverwalk</item>
+        <item>Navy Pier</item>
+        <item>Millennium Park</item>
+        <item>SkyDeck, Willis Tower</item>
+        <item>Cloud Gate</item>
+        <item>360 Chicago, John Hancock Center</item>
+        <item>Shedd Aquarium</item>
+        <item>Field Museum</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Adler Planetarium</item>
+    </string-array>
+    <string-array name="attractionWebsites">
+        <item>https://www.chicagoriverwalk.us/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.choosechicago.com/things-to-do/parks-and-outdoors/millennium-park/</item>
+        <item>http://theskydeck.com/</item>
+        <item>http://millenniumparkfoundation.org/places/cloud-gate/</item>
+        <item>http://www.360chicago.com/</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://www.fieldmuseum.org/</item>
+        <item>http://www.lpzoo.org/</item>
+        <item>https://www.adlerplanetarium.org/</item>
+    </string-array>
+    <string-array name="restaurantNames">
+        <item>Viaggio Ristorante and Lounge</item>
+        <item>Lou Mitchell's</item>
+        <item>Tang's Garden Restaurant</item>
+        <item>Roanoke Restaurant</item>
+        <item>312 Chicago</item>
+        <item>Phoenix Restaurant</item>
+        <item>Yolk - River North</item>
+        <item>Beatrix</item>
+        <item>Allium</item>
+        <item>Eataly Chicago</item>
+    </string-array>
+    <string-array name="restaurantWebsites">
+        <item>https://www.viaggiochicago.com/</item>
+        <item>http://www.loumitchells.com/</item>
+        <item>https://www.tangsgardenrestaurant.com/</item>
+        <item>http://www.theroanokerestaurant.com/</item>
+        <item>http://www.312chicago.com/</item>
+        <item>http://www.phoenixchicagoil.com/</item>
+        <item>https://www.eatyolk.com/</item>
+        <item>http://beatrixrestaurants.com/</item>
+        <item>https://www.fourseasons.com/chicago/dining/restaurants/allium/</item>
+        <item>https://www.eataly.com/us_en/stores/chicago/</item>
+    </string-array>
+</resources>
